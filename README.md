@@ -3,6 +3,6 @@ Integrative Group Project that consists of a rocket launching simulation in Java
 
 Special thanks to my teammates:
 
-- Corentin Gouanvic
+- Jonathan Gao
 - Mélie Leclerc
 - Ivana Bera
